@@ -17,4 +17,4 @@ Jusqu'ici cet enseignement était constitué de cours _ex cathedra_ classiques, 
 - Des vidéos et tutoriaux à utiliser en classes inversées
 - Des challenges et cas concrets de données à analyser
 - Des exercices d'(auto-)évaluation interactifs
-- Une organisation Github classroom et un site blogdown à disposition des étudiants pour élaborer leurs propre base de connaissances
+- Une organisation Github classroom et un site blogdown à disposition des étudiants pour construire leurs propre base de connaissances

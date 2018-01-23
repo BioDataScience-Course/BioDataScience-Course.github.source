@@ -11,9 +11,9 @@ publishDir = "../biodatascience-course.github.io"
     custom_css = ["css/local.css"]
 
 [[params.social]]
-    title = "site web"
-    icon = "external-link"
-    url = "http://econum.umons.ac.be"
+    title = "tutoriel"
+    icon = "book"
+    url = "http://biodatascience-course.sciviews.org/sdd-umons"
 [[params.social]]
     title = "github"
     icon = "github"
