@@ -1,0 +1,24 @@
+theme = "landing-page-hugo"
+baseurl = "http://biodatascience-course.sciviews.org"
+languageCode = "fr"
+title = "Science des Données Biologiques"
+canonifyUrls = "true"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "../biodatascience-course.github.io"
+
+[params]
+    description = "Université de Mons"
+    custom_css = ["css/local.css"]
+
+[[params.social]]
+    title = "site web"
+    icon = "external-link"
+    url = "http://econum.umons.ac.be"
+[[params.social]]
+    title = "github"
+    icon = "github"
+    url = "https://github.com/BioDataScience-Course"
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:sdd@sciviews.org"

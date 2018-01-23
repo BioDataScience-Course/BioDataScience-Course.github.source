@@ -1,0 +1,19 @@
+---
+title: "Méthode d'enseignement"
+author: "Philippe Grosjean"
+date: 2018-01-23T20:05:14+01:00
+categories: ["Course"]
+tags: ["data science", "book", "R"]
+weight: 6
+img: "books.jpg"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Jusqu'ici cet enseignement était constitué de cours _ex cathedra_ classiques, suivis de séances d'exercices. Pour l'année académique 2018-2019, nous sommes en train de revoir complètement le programme avec:
+
+- Des vidéos et tutoriaux à utiliser en classes inversées
+- Des challenges et cas concrets de données à analyser
+- Des exercices d'(auto-)évaluation interactifs

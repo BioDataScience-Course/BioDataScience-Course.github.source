@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Cours I",
+        "link": "https://moodle.umons.ac.be/course/view.php?id=1387",
+        "linkText": "Moodle",
+        "features": [
+            {
+                "name": "Syllabus",
+                "description": "Tutoriel et matériel textuel"
+            },
+            {
+                "name": "Vidéos",
+                "description": "Classes inversées"
+            },
+            {
+                "name": "Exercices",
+                "description": "Auto-évaluation"
+            }
+        ]
+    },
+    {
+        "name": "Cours II",
+        "link": "https://moodle.umons.ac.be/course/view.php?id=1463",
+        "linkText": "Moodle",
+        "features": [
+            {
+                "name": "Tutoriels",
+                "description": "Tutoriel et matériel textuel"
+            },
+            {
+                "name": "Présentations",
+                "description": "Classes inversées"
+            },
+            {
+                "name": "Exercices",
+                "description": "Auto-évaluation"
+            }
+        ]
+    },
+    {
+        "name": "Cours III",
+        "link": "https://moodle.umons.ac.be/course/view.php?id=1464",
+        "linkText": "Moodle",
+        "features": [
+            {
+                "name": "Syllabus",
+                "description": "Tutoriel et matériel textuel",
+                "link": "http://sciviews.org"
+            },
+            {
+                "name": "Présentations",
+                "description": "Classes inversées"
+            },
+            {
+                "name": "Exercices",
+                "description": "Auto-évaluation"
+            }
+        ]
+    }
+
+]
