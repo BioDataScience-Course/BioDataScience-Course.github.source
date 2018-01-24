@@ -6,4 +6,4 @@ weight = 2
 img = "spiral.jpg"
 +++
 
-Ce second cours, en troisième année de bachelier, aborde deux sections très importantes des sciences des données: les techniques exploratoires multivariées d'analyse des données, et les modèles utilisés en régression.
+Ce second cours, en troisième année de bachelier, aborde deux sections très importantes des sciences des données: les techniques exploratoires multivariées d'analyse de données, et les modèles utilisés en régression.
