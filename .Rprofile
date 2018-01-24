@@ -9,17 +9,17 @@ install_git_hook <- function(repo_dir = ".", warn.exists = FALSE) {
   if (file.exists(hook_path)) { # Do not overwrite it!
     if (isTRUE(warn.exists))
       warning("Hook .git/hooks/pre-push already exist and will not be overwritten")
+      return(FALSE)
   }
   # Install the hook (different versions for Windows or Unix-like)
   if (.Platform$OS.type == "unix") {
-    cat('
-#!/bin/sh
+    cat('#!/bin/sh
 trim() {
   local var="$*"
   # remove leading whitespace characters and possible quote
-  var="${var#"${var%%[![:space:]\"]*}"}"
+  var="${var#"${var%%[![:space:]\\\"]*}"}"
   # remove possible quote and trailing whitespace characters
-  var="${var%"${var##*[!\"[:space:]]}"}"
+  var="${var%"${var##*[!\\\"[:space:]]}"}"
   echo "$var"
 }
 
@@ -46,6 +46,8 @@ else
   exit 0
 fi
 ', file = hook_path)
+    # Also make sure this file is executable
+    Sys.chmod(hook_path, "733")
   } else {
     if (isTRUE(warn.exists)) stop("Hook not available yet for Windows")
   }
