@@ -3,7 +3,11 @@ baseurl = "http://biodatascience-course.sciviews.org"
 languageCode = "fr"
 title = "Science des Données Biologiques"
 canonifyUrls = "true"
+googleAnalytics = ""
+disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
 publishDir = "../biodatascience-course.github.io"
 
 [params]
