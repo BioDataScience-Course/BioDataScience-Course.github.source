@@ -9,7 +9,7 @@ install_git_hook <- function(repo_dir = ".", warn.exists = FALSE) {
   if (file.exists(hook_path)) { # Do not overwrite it!
     if (isTRUE(warn.exists))
       warning("Hook .git/hooks/pre-push already exist and will not be overwritten")
-      return(FALSE)
+      return(invisible(FALSE))
   }
   # Install the hook (different versions for Windows or Unix-like)
   if (.Platform$OS.type == "unix") {
