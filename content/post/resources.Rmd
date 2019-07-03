@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Ressources & liens"
 author: "Philippe Grosjean"
 date: 2019-07-03T10:11:18+01:00
 categories: ["Course"]
@@ -12,10 +12,29 @@ img: "intro-bg2.jpg"
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Présentations:
+Enseignants:
 
-- ...
+- [Philippe Grosjean](http://phgrosjean.sciviews.org)
+- [Guyliann Engels](https://guyliann.netlify.com/fr/)
+- [Raphaël Conotte](https://www.researchgate.net/profile/Raphael_Conotte)
+
+Matériel pédagogique accessible hors UMONS:
+
+- [Tutoriel](http://biodatascience-course.sciviews.org/sdd-umons/)
+- [Vidéos](https://www.youtube.com/channel/UCT5UQDG5bP9YtSgBpvoRdPg)
+- [Learnr](https://github.com/BioDataScience-Course/BioDataScience)
+- [Github](https://github.com/BioDataScience-Course)
 
 Logiciels liés à ces cours:
 
-- ...
+- [R](https://www.r-project.org)
+- [RStudio](https://www.rstudio.com)
+- [SciViews Box](http://www.sciviews.org/software/svbox/)
+- [SciViews R](http://www.sciviews.org/software/sciviews-r/)
+
+Présentations:
+
+- [User!2019, Toulouse, France, 2019](https://guyliann.netlify.com/fr/talk/2019_toulouse_user/)
+- [3ème journée des enseignants de l'UMONS, Mons, Belgique, 2019](https://guyliann.netlify.com/fr/talk/2019_mons_jde/)
+- [7ème rencontres R, Rennes, France, 2018](https://guyliann.netlify.com/fr/talk/2018_rennes_rencontrer/)
+

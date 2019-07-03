@@ -25,3 +25,7 @@ publishDir = "../BioDataScience-Course.github.io"
     title = "email"
     icon = "envelope-o"
     url = "mailto:sdd@sciviews.org"
+[[params.social]]
+    title = "UMONS"
+    icon = "graduation-cap"
+    url = "http://www.umons.ac.be"
