@@ -12,9 +12,9 @@ img: "books.jpg"
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Jusqu'à l'année académique 2017-2018, cet enseignement était constitué de cours _ex cathedra_ classiques, suivis de séances d'exercices. Pour l'année académique 2018-2019, nous sommes en train de revoir complètement le programme avec:
+Jusqu'à l'année académique 2017-2018, cet enseignement était constitué de cours _ex cathedra_ classiques, suivis de séances d'exercices. A partir de l'année académique 2018-2019, nous révisons progressivement le programme et le matériel pédagogique avec:
 
 - Des vidéos et tutoriaux à utiliser en classes inversées
 - Des challenges et cas concrets de données à analyser
 - Des exercices d'(auto-)évaluation interactifs
-- Une organisation Github classroom et un site blogdown à disposition des étudiants pour construire leurs propre base de connaissances
+- Une organisation Github Classroom et un site blogdown à disposition des étudiants pour construire leurs propre base de connaissances

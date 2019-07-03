@@ -1,0 +1,21 @@
+---
+title: "Resources"
+author: "Philippe Grosjean"
+date: 2019-07-03T10:11:18+01:00
+categories: ["Course"]
+tags: ["data science", "book", "R"]
+weight: 7
+img: "intro-bg2.jpg"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Présentations:
+
+- ...
+
+Logiciels liés à ces cours:
+
+- ...

@@ -5,16 +5,20 @@
         "linkText": "Moodle",
         "features": [
             {
-                "name": "Syllabus",
-                "description": "Tutoriel et matériel textuel"
+                "name": "Introduction - Logiciels & outils (R, RStudio, git & Github)",
+                "description": ""
             },
             {
-                "name": "Vidéos",
-                "description": "Classes inversées"
+                "name": "Visualisation - Graphiques",
+                "description": ""
             },
             {
-                "name": "Exercices",
-                "description": "Auto-évaluation"
+                "name": "Traitement des données - Importation, conversion, manipulation",
+                "description": ""
+            },
+            {
+                "name": "Tests d'hypothèses - Chi2, t, ANOVA, correlation",
+                "description": ""
             }
         ]
     },
@@ -24,16 +28,20 @@
         "linkText": "Moodle",
         "features": [
             {
-                "name": "Tutoriels",
-                "description": "Tutoriel et matériel textuel"
+                "name": "Modèles linéaires (généralisés)",
+                "description": ""
             },
             {
-                "name": "Présentations",
-                "description": "Classes inversées"
+                "name": "Modèles non linéaires, régression robuste et quantile",
+                "description": ""
             },
             {
-                "name": "Exercices",
-                "description": "Auto-évaluation"
+                "name": "Distances & classification hiérarchisée",
+                "description": ""
+            },
+            {
+                "name": "K moyens, SOM, ACP, AFC, MFA & MDS",
+                "description": ""
             }
         ]
     },
@@ -43,17 +51,66 @@
         "linkText": "Moodle",
         "features": [
             {
-                "name": "Syllabus",
-                "description": "Tutoriel et matériel textuel",
-                "link": "http://sciviews.org"
+                "name": "Classification supervisée - Bases & métriques",
+                "description": ""
             },
             {
-                "name": "Présentations",
-                "description": "Classes inversées"
+                "name": "ADL, SVM, random forest, apprentissage profond",
+                "description": ""
             },
             {
-                "name": "Exercices",
-                "description": "Auto-évaluation"
+                "name": "Series spatio-temporelles - description, décomposition & régularisation",
+                "description": ""
+            },
+            {
+                "name": "Statistiques spatiales - cartes & krigeage",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Cours IV",
+        "link": "https://moodle.umons.ac.be/course/view.php?id=2659",
+        "linkText": "Moodle",
+        "features": [
+            {
+                "name": "Gestion de gros projets sour RStudio",
+                "description": ""
+            },
+            {
+                "name": "Dates, données circulaires, textuelles & expressions régulières",
+                "description": ""
+            },
+            {
+                "name": "Modularisation du code & fonctions",
+                "description": ""
+            },
+            {
+                "name": "Données ouvertes, principe FAIR",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Cours V",
+        "link": "https://moodle.umons.ac.be/course/view.php?id=2660",
+        "linkText": "Moodle",
+        "features": [
+            {
+                "name": "Organisation de code, orienté-objet, packages",
+                "description": ""
+            },
+            {
+                "name": "Test, optimisation de code et intégration continue",
+                "description": ""
+            },
+            {
+                "name": "Bases de données SQL & noSQL",
+                "description": ""
+            },
+            {
+                "name": "Calcul en parallèle et sur le cloud",
+                "description": ""
             }
         ]
     }
